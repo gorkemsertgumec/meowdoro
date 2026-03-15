@@ -1,6 +1,6 @@
 # Meowdoro 🐈
 
-![Menu Bar](screenshots/menu-bar.png)
+![Meowdoro](screenshots/meowdoro-banner.png)
 
 A tiny focus timer that lives in your Mac’s menu bar.
 
@@ -12,15 +12,18 @@ Instead of opening another productivity app, Meowdoro sits directly in the macOS
 
 ## Why I built this
 
-Many Pomodoro apps require opening a full window or switching context.
+Most Pomodoro apps require opening a full window or switching context.
 
 I wanted a focus timer that stays out of the way and integrates directly into the macOS menu bar, making focus sessions effortless to start.
 
-This project was built as a small product experiment to explore minimal productivity tools.
+Meowdoro was built as a small product experiment to explore minimal productivity tools.
 
 ---
 
 ## Screenshots
+
+### Menu Bar Timer
+![Menu Bar](screenshots/menu-bar.png)
 
 ### Dashboard
 ![Dashboard](screenshots/dashboard.png)
@@ -28,7 +31,7 @@ This project was built as a small product experiment to explore minimal producti
 ### Dark Mode
 ![Dark Mode](screenshots/dark-mode.png)
 
-### Notification
+### Notifications
 ![Notification](screenshots/notification.png)
 
 ---
@@ -49,7 +52,7 @@ This project was built as a small product experiment to explore minimal producti
 2. Start a focus session  
 3. Meowdoro automatically manages work and break cycles  
 
-The goal is to stay focused without interrupting your workflow.
+The goal is to help users stay focused without interrupting their workflow.
 
 ---
 
@@ -73,7 +76,7 @@ This project explores:
 
 ## Download
 
-Coming soon to the Mac App Store.
+Coming soon on the Mac App Store.
 
 ---
 
