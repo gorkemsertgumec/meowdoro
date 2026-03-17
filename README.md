@@ -1,6 +1,6 @@
 # Meowdoro 🐈
 
-![Meowdoro](screenshots/meowdoro-banner.png)
+![Meowdoro](assets/meowdoro-banner.png)
 
 A tiny focus timer that lives in your Mac’s menu bar.
 
@@ -23,16 +23,16 @@ Meowdoro was built as a small product experiment to explore minimal productivity
 ## Screenshots
 
 ### Menu Bar Timer
-![Menu Bar](screenshots/menu-bar.png)
+![Menu Bar](assets/01-menubar-popup.png)
+
+### Customization
+![Customization](assets/02-customization.png)
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### Dark Mode
-![Dark Mode](screenshots/dark-mode.png)
+![Dashboard](assets/03-dashboard.png)
 
 ### Notifications
-![Notification](screenshots/notification.png)
+![Notification](assets/04-notification.png)
 
 ---
 
