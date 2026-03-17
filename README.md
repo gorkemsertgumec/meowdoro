@@ -1,4 +1,4 @@
-# 🐈 Meowdoro
+# Meowdoro
 
 ![Meowdoro](assets/meowdoro-banner.png)
 
