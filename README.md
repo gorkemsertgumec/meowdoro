@@ -68,7 +68,7 @@ macOS Menu Bar App architecture
 
 ## Download
 
-Coming soon on the Mac App Store.
+Mac App Store Link: https://apps.apple.com/tr/app/meowdoro/id6760627293?mt=12
 
 ---
 
