@@ -2,59 +2,65 @@
 
 ![Meowdoro](assets/meowdoro-banner.png)
 
-A tiny focus companion that lives in your Mac’s menu bar.
+A tiny focus companion that helps you start.
+
+Stay focused without breaking your flow.
 
 ---
 
-## Why Meowdoro?
+## What it is
 
-I didn’t want another productivity tool.
-
-I wanted something that doesn’t feel like an app.
-
-Something that just sits there while you work.
-
-So I built Meowdoro.
-
----
-
-## What is Meowdoro?
-
-Meowdoro is not just a timer.
-
-It’s a small presence in your menu bar that helps you focus without getting in your way.
+Meowdoro is a lightweight focus timer designed to stay out of your way.
 
 No setup.  
 No friction.  
-No interruptions.
+Just click and start.
 
-Just you, your work, and a tiny cat 🐈
+---
+
+## Why Meowdoro
+
+Most productivity tools try to do too much.
+
+When you just need to focus,  
+they slow you down.
+
+Meowdoro does less.
+
+So you can start faster.
 
 ---
 
 ## Screenshots
 
-### Menu Bar Timer
-![Menu Bar](assets/01-menubar-popup.png)
+### Start your focus with one click
+![Menu Bar](assets/screenshot-menubar.png)
 
-### Customization
-![Customization](assets/02-customization.png)
+### Your focus, visualized
+![Dashboard](assets/screenshot-dashboard.png)
 
-### Dashboard
-![Dashboard](assets/03-dashboard.png)
-
-### Notifications
-![Notification](assets/04-notification.png)
+### Always there in your menu bar
+![States](assets/screenshot-states.png)
 
 ---
 
-## Key Features
+## Features
 
-• Lives in the macOS menu bar  
-• Starts instantly  
-• Minimal, distraction-free experience  
-• Lightweight focus tracking  
-• Designed as a quiet work companion  
+- Menu bar Pomodoro timer  
+- Instant start  
+- Work / break cycles  
+- Adjustable durations  
+- Gentle notifications  
+- Lightweight focus tracking  
+- Monthly focus heatmap  
+
+---
+
+## Philosophy
+
+Starting is the hardest part.
+
+Meowdoro removes the friction to begin.
 
 ---
 
@@ -68,7 +74,7 @@ macOS Menu Bar App architecture
 
 ## Download
 
-Mac App Store Link: https://apps.apple.com/tr/app/meowdoro/id6760627293?mt=12
+https://apps.apple.com/tr/app/meowdoro/id6760627293?mt=12
 
 ---
 
